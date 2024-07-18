@@ -31,15 +31,14 @@ To recreate the development environment, you need the following software and/or 
 
 *  Install Python
 *  install the rsa to the python.
-*  
+
 
 ## Useful Websites to Learn More
 
 I found these websites useful in developing this software:
 
 * [Copilot](bing.com)
-*
-*
+
 
 ## Future Work
 
@@ -47,4 +46,4 @@ The following items I plan to fix, improve, and/or add to this project in the fu
 
 * [ ] Let the user knows who is currently online.
 * [ ] Allow sending files.
-* [ ]
+
