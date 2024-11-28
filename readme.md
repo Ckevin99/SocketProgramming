@@ -7,8 +7,7 @@ SocketProgramming
 Using socketProgramming I created a chat with GUI and encryption.
 
 **Project Goals**:
-I dont know so much about how socket programming works and how could I do a encryptation of data. So I was willing
-to develop these two skills.
+Develop skills on socket programming, encryptation and threads.
 
 ## Instructions for Build and Use
 
